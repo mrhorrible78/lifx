@@ -1,3 +1,4 @@
+#test
 import sys
 from lifxlan import LifxLAN
 from prettytable import PrettyTable
